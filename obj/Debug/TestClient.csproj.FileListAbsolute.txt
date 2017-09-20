@@ -1,0 +1,8 @@
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\bin\Debug\SuperRobo.exe.config
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\bin\Debug\SuperRobo.exe
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\bin\Debug\SuperRobo.pdb
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\bin\Debug\SuperRobot.dll
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\bin\Debug\SuperRobot.pdb
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\obj\Debug\SuperRobo.exe
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\obj\Debug\SuperRobo.pdb
