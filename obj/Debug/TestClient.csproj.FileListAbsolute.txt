@@ -6,3 +6,11 @@ c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\bin\De
 c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
 c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\obj\Debug\SuperRobo.exe
 c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobo\obj\Debug\SuperRobo.pdb
+C:\Users\ronald\Documents\Visual Studio 2015\Projects\SuperRobo_1\SuperRobo\bin\Debug\SuperRobo.exe.config
+C:\Users\ronald\Documents\Visual Studio 2015\Projects\SuperRobo_1\SuperRobo\obj\Debug\SuperRobo.exe
+C:\Users\ronald\Documents\Visual Studio 2015\Projects\SuperRobo_1\SuperRobo\obj\Debug\SuperRobo.pdb
+C:\Users\ronald\Documents\Visual Studio 2015\Projects\SuperRobo_1\SuperRobo\bin\Debug\SuperRobo.exe
+C:\Users\ronald\Documents\Visual Studio 2015\Projects\SuperRobo_1\SuperRobo\bin\Debug\SuperRobo.pdb
+C:\Users\ronald\Documents\Visual Studio 2015\Projects\SuperRobo_1\SuperRobo\bin\Debug\SuperRobot.dll
+C:\Users\ronald\Documents\Visual Studio 2015\Projects\SuperRobo_1\SuperRobo\bin\Debug\SuperRobot.pdb
+C:\Users\ronald\Documents\Visual Studio 2015\Projects\SuperRobo_1\SuperRobo\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
